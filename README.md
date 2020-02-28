@@ -1,7 +1,9 @@
 # Computer-Graphics
 UNH CS870
 
-# Use
+# Ray Tracing 
+
+## Use
 
 `make`
 
