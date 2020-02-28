@@ -1,2 +1,15 @@
 # Computer-Graphics
 UNH CS870
+
+Usage: 
+
+`make`
+
+```
+./rt simple.txt
+./rt fiveballs.txt
+./rt box_sphere.txt
+```
+
+X server required 
+
