@@ -1,7 +1,7 @@
 # Computer-Graphics
 UNH CS870
 
-Usage: 
+# Use
 
 `make`
 
